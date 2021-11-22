@@ -1,2 +1,3 @@
-# probability_theory_python
-Probability theory in python notebooks
+##  Probability Theory in Python Notebooks
+
+All notebooks for *Probability Theory in Python*
