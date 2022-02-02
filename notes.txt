@@ -1,4 +1,4 @@
 ideas for appendicees:
 Appendix A: Mathematical abbreviations
 Appendix B: Collection of Probability distributions with python implementations
-Appendix C: Key historical evens (timeline) of probability theory
+Appendix C: Key historical events (timeline) of probability theory
